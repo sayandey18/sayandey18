@@ -1,5 +1,4 @@
-![Banner](/banner.png)
-
+![Banner](/img/banner.png)
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=sayandey18&label=Visitors&style=for-the-badge)
