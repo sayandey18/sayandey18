@@ -31,7 +31,7 @@
 <details>
   <summary>⚡ Github Stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sayandey18&show_icons=true&theme=dark&hide_border=true" alt="Jatin's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayandey18&show_icons=true&theme=dark&hide_border=true" alt="Sayan's Github Stats" />
 </details>
 
 <details>
