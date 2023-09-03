@@ -35,21 +35,9 @@
 </details>
 
 <details>
-  <summary>💹 Github Activity Graph</summary>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sayandey18&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
-</details>
-
-<details>
   <summary>🔥 GitHub Streak Stats</summary>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sayandey18&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</details>
-
-<details>
-  <summary>🏆 Github Trophies</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=sayandey18&theme=nord" alt="Jatin's Github Activity Graph" />
 </details>
 
 <details>
