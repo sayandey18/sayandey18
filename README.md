@@ -1,4 +1,5 @@
 <!--Banner-->
+
 ![sayandey18 banner image](./img/banner.png)
 
 <!--Night Owl image-->
@@ -7,11 +8,13 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ꜱᴀʏᴀɴ! 
-*Digital Craftsman (Developer / Blogger)*
-<br /> 
 
-<!--Start Intro-->               
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ꜱᴀʏᴀɴ!
+
+_Digital Craftsman (Developer / Blogger)_
+<br />
+
+<!--Start Intro-->
 <p align="left">I am a self-taught Developer and JavaScript Enthusiast from Kolkata. Who loves modern web technology, web stuff creation, and interactive coding layouts.</p>
 
 - ✨ Student of life :)
@@ -28,14 +31,14 @@
 </p>
 <br />
 
-<!--Languages and Tools Section-->       
+<!--Languages and Tools Section-->
 <h2 align="center">⚡ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs ⚡</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,php,js,ts,nextjs,react,nodejs,nginx,wordpress,mysql,firebase,supabase,postman,vscode,arduino,git,devto,aws&perline=10"  />
 </p>
 <br />
 
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -44,7 +47,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sayandey18">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayandey18&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayandey18&show_icons=true&hide_border=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -52,7 +55,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sayandey18">
-          <img align="center" src="https://streak-stats.demolab.com?user=sayandey18&theme=nightowl" alt="Streak Stats" />
+          <img align="center" width="495" src="https://streak-stats.demolab.com?user=sayandey18&theme=nightowl&hide_border=true&mode=weekly" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -62,7 +65,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/sayandey18/sayandey.dev">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sayandey18&repo=sayandey.dev&theme=nightowl&show_owner=true" alt="sayandey.dev" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sayandey18&hide_border=true&theme=nightowl&repo=sayandey.dev" alt="sayandey.dev" />
         </a>
       </p>
     </td>
@@ -70,7 +73,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/sayandey18">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sayandey18&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sayandey18&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -81,10 +84,10 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayandey18&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayandey18&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=true" border-radius="15">
 </div>
 
-<!--Contact Section--> 
+<!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
@@ -106,7 +109,7 @@
 </div>
 <br/>
 
-<!--Footer--> 
+<!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
