@@ -18,9 +18,9 @@ _Digital Craftsman (Developer / Blogger)_
 <p align="left">I am a self-taught Developer and JavaScript Enthusiast from Kolkata. Who loves modern web technology, web stuff creation, and interactive coding layouts.</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🔥 Currently working on a tool based project [Hosting Checker](https://hostingchecker.org/).
-- ✍ I write technical blogs, You can visit my blog site at [Bloggingmetrics](https://bloggingmetrics.com/).
+- 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
+- 🔥 Currently working on a tool-based project.
+- ✍ I write technical blogs. You can visit my blog site at [Bloggingmetrics](https://bloggingmetrics.com/).
 - ❤️ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://sayandey.dev) for more details about me.
 <!--End Intro-->
@@ -60,54 +60,8 @@ _Digital Craftsman (Developer / Blogger)_
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sayandey18/simple-jwt-auth">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sayandey18&hide_border=true&theme=nightowl&repo=simple-jwt-auth" alt="sayandey.dev" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sayandey18">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sayandey18&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayandey18&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=true" border-radius="15">
-</div>
-
-<!--Contact Section-->
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/sayandey18/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:sayan@sayandey.dev" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=sayan@sayandey.dev mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/mr.sayandey18/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/mrsayandey" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
 
 <!--Footer-->
 <p align="center">
